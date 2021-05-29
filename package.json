@@ -24,7 +24,7 @@
     "superagent": "^4.1.0",
     "wechat": "^2.1.0",
     "wechaty": "^0.26.1",
-    "ws": "^5.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "ffi": "^2.3.0",
